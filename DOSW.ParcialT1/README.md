@@ -60,6 +60,21 @@ requerimientos no funcionales:
 | **Diagrama de caso de uso** | en diagramas|
 | **Poscondiciones** | *Se espera como resultado la elimacion del evento de la base de datos y que la notificacion de dicha accion llegue a todos los usuario registrados. |
 
+# punto 6
+
+### Epica
+
+La cancelacion de eventos del sistema EventSync
+
+### Historia de usuario
+
+como profesor/administrativo quiero poder cancelar los eventos que estan en el sistema sea por la razon que tena en ese momento y que la notificacion de la cancelaicon del evento llegue a los usuarios inscritos para que no pierdan tiempo llendo al evento cancelado anteriormente.
+
+### Tareas
+
+1. que el usuario tenga acceso a los eventos creados en el sistema
+2. que la opcion de cancelacion de evento solo este disponible para los usuarios atorizados para cancelarla.
+3. que al mometo de cancelar un evento la notificacion del evento sea enviada y entregada  a todos los usuarios inscritos.
 
 
 
