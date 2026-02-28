@@ -19,12 +19,19 @@ lista de espera y las pueda ateder de manera mas eficiente.
 
 requerimientos funcionales:
 - Creacion de eventos dandoles iformacion como duracion, fecha y requerimientos necesarios.
-- que sea posible la realizacion de inscripcion a los eventos disponibles y activos.
+- que sea posible la realizacion de inscripcion a los eventos disponibles y activos usando los patrones de diseño para controlar de mejor manera las multiples solicitudes.
 - la posibilidad de cnacelr los eventos siempre y cuando posea los permisos disponibles segun el tipo de usuario que sea.
 
 
 requerimientos no funcionales:
 - interfaz con los colores de la universidad con las imagenes alegoricas a cada evento.
 - manejar lengiuaje adecuado para los usuarios y con una fuente deacuerdo a la institucion.
+
+# punto 4
+
+![alt text](casosDeUso.drawio.png)
+
+
+
 
 
